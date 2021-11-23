@@ -1,0 +1,26 @@
+
+<html>
+<head>
+	<title>To do List</title>	
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">	
+<body>
+
+	<div class="container">
+		<h1>To Do List <i class="fas fa-plus"></i></h1>
+		<input type="text" placeholder="Add New To Do">
+		<ul>
+			<li><span><i class="fas fa-trash-alt"></i></span> Buy Water</li>
+			<li><span><i class="fas fa-trash-alt"></i></span>  Buy Eggs</li>
+			<li><span><i class="fas fa-trash-alt"></i></span> Visit Jordan</li>		
+		</ul>		
+	</div>
+  <!-- END OF CONTAINER   -->
+
+	<div class="footer text-center">
+    <p><strong><a target="_blank" href="https://codepen.io/cb2307/full/NzaOrm">Portfolio</a></strong></p>
+		<p><strong><i class="fas fa-copyright"></i> Coded by Carlos Avila</strong></p>
+	</div>
+  <!-- END OF FOOTER	 -->
+</body>
+</html>
